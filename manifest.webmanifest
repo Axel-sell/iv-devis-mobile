@@ -1,0 +1,32 @@
+{
+ "name": "IV Devis",
+ "short_name": "IV Devis",
+ "description": "Devis et factures d'Immigration Voyages",
+ "lang": "fr",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#eef1f7",
+ "theme_color": "#0C2E52",
+ "icons": [
+  {
+   "src": "assets/icone-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icone-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icone-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
